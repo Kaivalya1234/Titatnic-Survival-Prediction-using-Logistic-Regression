@@ -1,4 +1,4 @@
-                                                                    Titatnic-Survival-Prediction-using-Logistic-Regression
+                         Titatnic-Survival-Prediction-using-Logistic-Regression
 
 Logistic regression is basically a supervised classification algorithm. In a classification problem, the target variable(or output), y, can take only discrete values for a given set of features(or inputs), X.
 
